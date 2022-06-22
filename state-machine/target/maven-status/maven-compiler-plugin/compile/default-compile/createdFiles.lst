@@ -1,0 +1,13 @@
+com/stanzaliving/statemachine/PrintAction.class
+com/stanzaliving/statemachine/StateMachineConfig.class
+com/stanzaliving/statemachine/Action.class
+com/stanzaliving/statemachine/State.class
+com/stanzaliving/statemachine/Func.class
+com/stanzaliving/statemachine/StateConfiguration.class
+com/stanzaliving/statemachine/Action1.class
+com/stanzaliving/statemachine/StateRepresentation.class
+com/stanzaliving/statemachine/StateMachine.class
+com/stanzaliving/statemachine/triggers/TriggerBehaviour.class
+com/stanzaliving/statemachine/Event.class
+com/stanzaliving/statemachine/asis/AsIsEvent.class
+com/stanzaliving/statemachine/StateReference.class
